@@ -6,8 +6,8 @@
 }
 
 .parallax {
- background-image: url("psychhospital/barbedwire.jpg");
- min-height: 200px;
+ background-image: url("barbedwire.jpg");
+ min-height: 1000px;
   background-attachment: fixed;
 background-position: center;
 background-repeat: no-repeat;
@@ -19,9 +19,13 @@ width:100%;
 .title {
   position:absolute;
   left:0;
-  top:5em;
+  top:15em;
   width:100%;
   text-align:center;
+}
+
+.words{
+  width:80%;
 }
 
 span.border {
@@ -39,7 +43,7 @@ span.border {
 }
 
 body {
-  background-color:lightgrey;
+  background-color:#f7f0e7;
 }
 
 h1 {
