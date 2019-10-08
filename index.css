@@ -1,0 +1,69 @@
+.graphs {
+  display:block;
+  text-align: center;
+  width:75%;
+  margin: 0 auto;
+}
+
+.parallax {
+ background-image: url("psychhospital/barbedwire.jpg");
+ min-height: 200px;
+  background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width:100%;
+}
+
+
+.title {
+  position:absolute;
+  left:0;
+  top:5em;
+  width:100%;
+  text-align:center;
+}
+
+span.border {
+  background-color:#111;
+  color:#fff;
+  padding:18px;
+  font-size:25px;
+  letter-spacing:10px;
+}
+
+.container {
+  max-width: 1000px;
+  width:100%;
+  margin:0 auto;
+}
+
+body {
+  background-color:lightgrey;
+}
+
+h1 {
+  text-align:center;
+  font-size: 3em;
+  font-weight:700;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+ text-align:left;
+ line-height:180%;
+ font-weight:400;
+  margin-left: 10em;
+  margin-right: 10em;
+
+}
+
+.firstcharacter {
+  color: #100;
+  float: left;
+  font-family: Georgia;
+  font-size: 50px;
+  line-height: 50px;
+  padding-right: 4px;
+  padding-left: 3px;
+}
